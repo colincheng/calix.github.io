@@ -1,3 +1,4 @@
 https://learnk8s.io/blog/installing-docker-and-kubernetes-on-windows/
 https://blog.containership.io/k8svsdocker/
 https://www.tutorialspoint.com/cloud_computing/
+https://www.tutorialspoint.com/questions_and_answers.htm
