@@ -10,3 +10,4 @@ build aws windows ami with packer:
 https://skeltonthatcher.com/blog/using-packer-create-windows-aws-amis-declarative-build-agents/
 https://medium.com/@bruce_25864/deploying-a-windows-2016-server-ami-on-aws-with-packer-and-terraform-part-1-8a2f771ecabf
 https://www.jigsawcode.com/packer-windows-server-2016-ami/
+https://www.2ndwatch.com/blog/automating-windows-server-2016-builds-with-packer/
