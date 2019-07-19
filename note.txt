@@ -5,3 +5,4 @@ https://www.tutorialspoint.com/questions_and_answers.htm
 https://www.tutorialspoint.com/developers_best_practices/testing_is_the_religion.htm
 https://keepass.info/
 https://www.baeldung.com/vault
+https://skeltonthatcher.com/blog/using-packer-create-windows-aws-amis-declarative-build-agents/
