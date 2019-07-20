@@ -19,3 +19,6 @@ https://debian-administration.org/article/703/A_brief_introduction_to_server-tes
 https://serverspec.org/tutorial.html
 https://vincent.bernat.ch/en/blog/2014-serverspec-test-infrastructure
 https://serverspec.org/
+
+powershell
+https://go.veeam.com/learn-powershell-basics-free-tutorial-course-ty
