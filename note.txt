@@ -13,6 +13,7 @@ https://www.jigsawcode.com/packer-windows-server-2016-ami/
 https://www.2ndwatch.com/blog/automating-windows-server-2016-builds-with-packer/
 
 ruby serverspec
+https://www.tutorialspoint.com/rspec/rspec_basic_syntax
 https://damyanon.net/post/getting-started-serverspec/
 https://stelligent.com/2016/08/17/introduction-to-serverspec-what-is-serverspec-and-how-do-we-use-it-at-stelligent-part1/
 https://debian-administration.org/article/703/A_brief_introduction_to_server-testing_with_serverspec
