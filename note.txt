@@ -27,3 +27,6 @@ https://go.veeam.com/learn-powershell-basics-free-tutorial-course-ty
 https://blog.netwrix.com/2018/02/21/windows-powershell-scripting-tutorial-for-beginners/
 https://www.idera.com/productssolutions/freetools/powershellplus
 https://www.computerworld.com/article/2537317/microsoft-windows-powershell-tips-and-tricks.html
+
+socket
+https://www.tutorialspoint.com/unix_sockets/what_is_socket
