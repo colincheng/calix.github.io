@@ -31,3 +31,6 @@ https://www.computerworld.com/article/2537317/microsoft-windows-powershell-tips-
 
 socket
 https://www.tutorialspoint.com/unix_sockets/what_is_socket
+
+base64
+https://base64.guru/learn/what-is-base64
