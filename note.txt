@@ -34,3 +34,6 @@ https://www.tutorialspoint.com/unix_sockets/what_is_socket
 
 base64
 https://base64.guru/learn/what-is-base64
+
+go
+https://www.tutorialspoint.com/go/go_overview.htm
