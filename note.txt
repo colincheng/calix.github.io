@@ -37,3 +37,6 @@ https://base64.guru/learn/what-is-base64
 
 go
 https://www.tutorialspoint.com/go/go_overview.htm
+
+docker
+https://docs.docker.com/glossary/?term=amd64
