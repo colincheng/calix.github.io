@@ -40,3 +40,6 @@ https://www.tutorialspoint.com/go/go_overview.htm
 
 docker
 https://docs.docker.com/glossary/?term=amd64
+
+ISA
+https://www.cise.ufl.edu/~mssz/CompOrg/CDA-lang.html
