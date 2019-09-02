@@ -44,3 +44,6 @@ https://docs.docker.com/glossary/?term=amd64
 ISA
 https://www.cise.ufl.edu/~mssz/CompOrg/CDA-lang.html
 https://stackoverflow.com/questions/5382130/are-instruction-set-and-assembly-language-the-same-thing
+
+linux shell
+http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
