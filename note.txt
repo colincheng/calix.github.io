@@ -50,3 +50,7 @@ http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
 
 Python3
 https://www.codecademy.com/courses/learn-python-3/lessons/learn-python-syntax/exercises/errors?action=resume_content_item
+
+Jenkins Pipeline
+https://www.edureka.co/blog/jenkins-pipeline-tutorial-continuous-delivery
+https://digitalvarys.com/jenkins-pipeline/
