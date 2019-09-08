@@ -54,3 +54,6 @@ https://www.codecademy.com/courses/learn-python-3/lessons/learn-python-syntax/ex
 Jenkins Pipeline
 https://www.edureka.co/blog/jenkins-pipeline-tutorial-continuous-delivery
 https://digitalvarys.com/jenkins-pipeline/
+
+Computer Architecure
+https://www.studytonight.com/computer-architecture/instruction-codes
