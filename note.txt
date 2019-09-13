@@ -47,6 +47,8 @@ https://stackoverflow.com/questions/5382130/are-instruction-set-and-assembly-lan
 
 linux shell
 http://pubs.opengroup.org/onlinepubs/009695399/utilities/xcu_chap02.html
+https://ryanstutorials.net/linuxtutorial/
+https://ryanstutorials.net/bash-scripting-tutorial/
 
 Python3
 https://www.codecademy.com/courses/learn-python-3/lessons/learn-python-syntax/exercises/errors?action=resume_content_item
@@ -61,3 +63,4 @@ https://www.studytonight.com/computer-architecture/instruction-codes
 Check if website is block by China
 https://www.comparitech.com/privacy-security-tools/blockedinchina/
 https://en.greatfire.org/analyzer
+
