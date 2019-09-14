@@ -64,3 +64,5 @@ Check if website is block by China
 https://www.comparitech.com/privacy-security-tools/blockedinchina/
 https://en.greatfire.org/analyzer
 
+devops
+https://www.edureka.co/blog/what-is-devops/
