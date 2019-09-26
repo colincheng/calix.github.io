@@ -68,3 +68,6 @@ https://en.greatfire.org/analyzer
 
 devops
 https://www.edureka.co/blog/what-is-devops/
+
+cafeliker
+https://github.com/cafeliker/harbor-scanner-anchore
