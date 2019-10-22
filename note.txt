@@ -14,6 +14,8 @@ https://www.jigsawcode.com/packer-windows-server-2016-ami/
 https://www.2ndwatch.com/blog/automating-windows-server-2016-builds-with-packer/
 https://github.com/PeteGoo/packer-win-aws
 
+https://www.slashroot.in/taxonomy/term/2
+
 ruby serverspec
 https://www.tutorialspoint.com/rspec/rspec_basic_syntax
 https://damyanon.net/post/getting-started-serverspec/
