@@ -80,3 +80,6 @@ https://github.com/cafeliker/harbor-scanner-anchore
 
 Vim
 https://www.openvim.com/sandbox.html
+
+GoReport
+https://goreportcard.com/report/github.com/rjkroege/edwood
