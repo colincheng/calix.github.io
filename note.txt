@@ -82,4 +82,4 @@ Vim
 https://www.openvim.com/sandbox.html
 
 GoReport
-https://goreportcard.com/report/github.com/rjkroege/edwood
+https://goreportcard.com/
