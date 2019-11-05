@@ -43,6 +43,7 @@ https://www.callicoder.com/categories/golang/
 https://youglish.com/search/golang
 https://astaxie.gitbooks.io/build-web-application-with-golang/en/
 https://riptutorial.com/go/example/26864/create--go-path-gulpfile-js
+https://blog.csdn.net/williamfan21c/article/details/60960238
 
 go orm
 https://ncona.com/2017/10/models-in-beego/
