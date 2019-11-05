@@ -88,3 +88,6 @@ https://goreportcard.com/
 
 Webhook Debug
 https://webhook.site/
+
+Concepts with java code
+https://docs.oracle.com/javase/tutorial/networking/datagrams/index.html
