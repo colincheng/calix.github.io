@@ -44,7 +44,6 @@ https://youglish.com/search/golang
 https://astaxie.gitbooks.io/build-web-application-with-golang/en/
 https://riptutorial.com/go/example/26864/create--go-path-gulpfile-js
 https://blog.csdn.net/williamfan21c/article/details/60960238
-https://gohugo.io/templates/introduction/
 
 go orm
 https://ncona.com/2017/10/models-in-beego/
@@ -92,3 +91,7 @@ https://webhook.site/
 
 Concepts with java code
 https://docs.oracle.com/javase/tutorial/networking/datagrams/index.html
+
+Excellent Tools
+https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9
+https://gohugo.io/templates/introduction/
