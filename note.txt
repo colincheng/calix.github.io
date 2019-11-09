@@ -95,3 +95,6 @@ https://docs.oracle.com/javase/tutorial/networking/datagrams/index.html
 Excellent Tools
 https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=-Rh3-Vt9Nev9
 https://gohugo.io/templates/introduction/
+
+AI
+https://www.guru99.com/what-is-tensorflow.html
