@@ -98,3 +98,6 @@ https://gohugo.io/templates/introduction/
 
 AI
 https://www.guru99.com/what-is-tensorflow.html
+
+Best Explaination of Closure
+https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
