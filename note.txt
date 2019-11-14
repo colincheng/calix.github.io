@@ -101,3 +101,6 @@ https://www.guru99.com/what-is-tensorflow.html
 
 Best Explaination of Closure
 https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8
+
+Best javascript explaination
+https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983
